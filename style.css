@@ -1,0 +1,50 @@
+.location   {
+
+
+            text-align: center;
+
+}
+
+
+
+.current {
+
+        text-align: center;
+
+}
+
+
+
+
+.city {
+
+
+                        margin-bottom: 15px;
+                        font-size: 55px;
+
+}
+
+
+.date {
+
+                margin-bottom: 5px;
+                font-size: 35px;
+
+}
+
+
+.temp , .weather , .hi-low {
+
+
+                font-size: 20px;
+
+}
+
+
+body {
+
+
+
+                background-image: url('haloBackGround.jpeg');
+
+}
