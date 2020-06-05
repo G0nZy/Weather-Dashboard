@@ -51,3 +51,26 @@ body {
                 background-image: url('haloBackGround.jpeg');
 
 }
+
+
+
+
+
+
+ .hi-low {
+
+                outline-style: double;
+                outline-width: 3px;
+
+                margin-left: 800px;
+                margin-right: 800px;
+
+
+}
+
+.description {
+
+
+                text-align: center;
+
+}
